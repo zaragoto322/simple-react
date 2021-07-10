@@ -13,8 +13,6 @@ class App extends Component {
         this.states = {
             title: 'zaragto'
         }
-
-
     }
 
     handleClick() {
@@ -36,10 +34,6 @@ class App extends Component {
     }
 }
 
-// {/* <APP>
-//     <Navbar></Navbar>
-//     <p>hello</p>
-// </APP> */}
 
 ReactDOM.render((
     <App id = "app">hello</App>

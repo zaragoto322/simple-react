@@ -83,10 +83,12 @@ const ReactDOM = {
 
 export {
     render,
-    renderComponent
+    renderComponent,
+    ReactDOM
 }
 
 export default {
     render,
-    renderComponent
+    renderComponent,
+    ReactDOM
 }
